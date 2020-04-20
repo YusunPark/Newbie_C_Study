@@ -7,6 +7,8 @@ typedef struct _node {
 //	struct _node* prev; // Circular, Doubly linked list
 } node;
 typedef struct _linked_list {
+
+	
 	node* head;
 //	node* tail; // Circular, Doubly linked list
 } linked_list;
